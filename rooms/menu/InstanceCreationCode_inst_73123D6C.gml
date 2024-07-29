@@ -1,0 +1,1 @@
+effect = function() {global.mode = (global.mode + 1) mod 3;}
